@@ -371,10 +371,6 @@ const StatCard: React.FC<{
   icon?: React.ReactNode;
   extraContent?: React.ReactNode;
 }> = ({ title, value, trend, positive, icon, extraContent }) => {
-  // Intentional error for testing - throws on render
-  const badData: any = null;
-  const crash = badData.someProperty;
-
   return (
     <div className="bg-surface border border-border p-6 rounded-2xl flex flex-col justify-between hover:border-neutral-600 transition-colors">
       <div className="flex justify-between items-start mb-4">
