@@ -1,0 +1,12 @@
+[
+  { "id": 1, "category": "Food", "amount": 150, "date": "2023-10-01" },
+  { "id": 2, "category": "Transportation", "amount": 75, "date": "2023-10-02" },
+  { "id": 3, "category": "Entertainment", "amount": 200, "date": "2023-10-03" },
+  { "id": 4, "category": "Food", "amount": 100, "date": "2023-10-04" },
+  { "id": 5, "category": "Utilities", "amount": 120, "date": "2023-10-05" },
+  { "id": 6, "category": "Transportation", "amount": 50, "date": "2023-10-06" },
+  { "id": 7, "category": "Entertainment", "amount": 180, "date": "2023-10-07" },
+  { "id": 8, "category": "Food", "amount": 90, "date": "2023-10-08" },
+  { "id": 9, "category": "Utilities", "amount": 110, "date": "2023-10-09" },
+  { "id": 10, "category": "Transportation", "amount": 60, "date": "2023-10-10" }
+]
