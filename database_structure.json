@@ -1,0 +1,122 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "amount": 2100.0,
+      "category": "Shopping",
+      "subCategory": "Amazon",
+      "date": "31 May 2025",
+      "mode": "UPI"
+    },
+    {
+      "id": "2",
+      "amount": 299.0,
+      "category": "Movie",
+      "subCategory": "IMAX",
+      "date": "28 May 2025",
+      "mode": "UPI"
+    },
+    {
+      "id": "3",
+      "amount": 5000.0,
+      "category": "Investment",
+      "subCategory": "Groww",
+      "date": "24 May 2025",
+      "mode": "Bank"
+    },
+    {
+      "id": "4",
+      "amount": 2460.0,
+      "category": "Travel",
+      "subCategory": "Uber",
+      "date": "20 May 2025",
+      "mode": "Card"
+    },
+    {
+      "id": "5",
+      "amount": 678.0,
+      "category": "Food",
+      "subCategory": "Swiggy",
+      "date": "15 May 2025",
+      "mode": "UPI"
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "1",
+      "name": "Netflix",
+      "date": "15 June 2025",
+      "amount": 149.0,
+      "icon": "https://picsum.photos/40/40?random=1"
+    },
+    {
+      "id": "2",
+      "name": "Spotify",
+      "date": "24 Aug 2025",
+      "amount": 49.0,
+      "icon": "https://picsum.photos/40/40?random=2"
+    },
+    {
+      "id": "3",
+      "name": "Figma",
+      "date": "01 Jan 2026",
+      "amount": 3999.0,
+      "icon": "https://picsum.photos/40/40?random=3"
+    }
+  ],
+  "monthly_data": [
+    {
+      "name": "Dec",
+      "value": 16000
+    },
+    {
+      "name": "Jan",
+      "value": 27000
+    },
+    {
+      "name": "Feb",
+      "value": 9000
+    },
+    {
+      "name": "Mar",
+      "value": 15000
+    },
+    {
+      "name": "Apr",
+      "value": 26000
+    },
+    {
+      "name": "May",
+      "value": 24000
+    }
+  ],
+  "category_data": [
+    {
+      "name": "Food",
+      "value": 6156,
+      "color": "#ffffff"
+    },
+    {
+      "name": "Invest",
+      "value": 5000,
+      "color": "#a3a3a3"
+    },
+    {
+      "name": "Shop",
+      "value": 4356,
+      "color": "#525252"
+    },
+    {
+      "name": "Travel",
+      "value": 3670,
+      "color": "#262626"
+    }
+  ],
+  "dashboard_stats": {
+    "balance": 898450.0,
+    "monthlyExpenses": 24093.0,
+    "investment": 145555.0,
+    "goal": 75000,
+    "goalTarget": 145000
+  }
+}
